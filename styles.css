@@ -1,0 +1,17 @@
+body{
+
+}
+
+
+.cell{
+  background-color: lightblue;
+  width: 5em;
+  height: 5em;
+}
+
+.player-1{
+  background-color: lightgreen;
+}
+.player-2{
+  background-color: pink;
+}
